@@ -18,7 +18,7 @@ This application leverages Python 3.7 and includes the following libraries:
 Before running the application first install the following dependencies:
 
 ```python
-  pip install pandas
+  pip install web3
   pip install streamlit
 ```
 
@@ -27,6 +27,10 @@ Before running the application first install the following dependencies:
 ## Usage
 
 Here are some gangsta screen shots of what I am doing here.
+
+<img src=https://github.com/samlawhead/Fintech-Finder/blob/main/screenshots/Screen%20Shot%202022-10-04%20at%2018.28.36.png>
+<img src=https://github.com/samlawhead/Fintech-Finder/blob/main/screenshots/Screen%20Shot%202022-10-04%20at%2018.29.02.png>
+<img src=https://github.com/samlawhead/Fintech-Finder/blob/main/screenshots/Screen%20Shot%202022-10-04%20at%2018.29.26.png>
 
 ---
 
